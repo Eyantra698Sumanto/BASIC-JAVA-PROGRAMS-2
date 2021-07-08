@@ -1,6 +1,6 @@
 # BASIC-JAVA-PROGRAMS-2
 
-This Repository contains 200 basic programs in JAVA programming language consisting of:
+This Repository contains basic programs in JAVA programming language consisting of:
 
 **1) Patterns**
 
